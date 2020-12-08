@@ -59,7 +59,21 @@ This is it.docx
 govtech-csg{Th1sisn0ty3tthefl@g}PK
 ```
 
+We are able to extract `This is it.docx` with the password `govtech-csg{Th1sisn0ty3tthefl@g}` and view the document.
+
+![This is it.docx](this_is_it.png)
+
 And we have the flag!
 
+Additionlly, selecting all texts reveals a line in white font colour.
+
+```
+govtech-csg{3uph0n1ou5_@ud10_ch@ll3ng3}
+
+Clue to Forensic-Challenge-3: The registry path contains the words “covid”.
+
+The attacker like to use Bifid Cipher
+```
+
 ## Flag
-`govtech-csg{Th1sisn0ty3tthefl@g}`
+`govtech-csg{3uph0n1ou5_@ud10_ch@ll3ng3}`
