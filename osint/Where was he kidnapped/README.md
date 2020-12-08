@@ -31,11 +31,11 @@ Lastly, in [`video-3.mp4`](video-3.mp4),
 
 ![](table.png)
 
-We see that he was last seen at a block that had a table and what looks like a "cage". If we followed the road that the bus was on, we would be able to see the cage that was beside blk 870.
+We see that he was last seen at a block that had a table and what looks like a "cage". If we followed the road that the bus was on using [Google Maps](https://www.google.com/maps/@1.4130383,103.8386528,3a,22.5y,300.08h,89.14t/data=!3m6!1e1!3m4!1sgrB9cf9sPH4fmWu7q5Kwiw!2e0!7i16384!8i8192), we would be able to see the cage that was beside blk 870.
 
 ![](870_2.png)
 
-To further confirm our finding, I went to view the building from another angle and was able to locate see the table and a bit of the cage.
+To further confirm our finding, we went to view the building from another [angle](https://www.google.com/maps/@1.4132608,103.8379393,3a,75y,60.09h,84.1t/data=!3m6!1e1!3m4!1seW8RJNGwX2BgTjUi3tyBng!2e0!7i16384!8i8192) and was able to locate see the table and a bit of the cage.
 
 ![](870_1.png)
 
