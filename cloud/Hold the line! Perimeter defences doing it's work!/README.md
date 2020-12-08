@@ -96,4 +96,4 @@ $ curl -XPOST https://7cismpmbed.execute-api.ap-southeast-1.amazonaws.com/stagin
 ```
 
 ## Flag
-`govtech-csg{"w3_Ar3_L00kinG_@t_Ap1}`
+`govtech-csg{w3_Ar3_L00kinG_@t_Ap1}`
