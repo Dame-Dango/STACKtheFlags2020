@@ -154,8 +154,8 @@ setTimeout(function () {
     iii(x)
 }, 2000);
 ```
-Reading through this code we commented out the debugger function and noticed the iii function which had called atob(ascii to base64 javascript function).  
-This was when we knew it must be hidding something. As such we commented out the if check and identified the rrr was related to eee.
+Reading through this code we commented out the debugger function and noticed the `iii` function which had called `atob(ascii to base64 javascript function)`.  
+This was when we knew it must be hidding something. As such we commented out the if check and identified the `rrr` variable was related to `eee` variable.
 ``` javascript
 function iii(eee) {
     ttt = eee[0] << 16 | eee[1] << 8 | eee[2];
@@ -178,6 +178,7 @@ function iii(eee) {
 //     debugger
 // }
 ```
+Since `eee` was the parameter we had to check what was the value of `eee`.   
 Upon further inspection we know the `iii(x)` was called at the end of the javascript and since x had only 2 values for 3 choices there was only 8 possible combination for it.  
 After some further adjustment the flag appeared in the alert with the code below
 
