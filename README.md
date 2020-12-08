@@ -6,11 +6,11 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 
 ![Scoreboard](images/scoreboard.jpg)
 
-## Members Playing
-- @rizemon
-- @kelvneo
-- @3m0W33D
-- @arraysius
+## Our Team
+
+| [<img src="https://avatars2.githubusercontent.com/u/26685970?s=460&v=4=100x" width="200"/>](https://github.com/rizemon) | [<img src="https://avatars2.githubusercontent.com/u/2332196?s=460&v=4" width="200"/>](https://github.com/kelvneo) | [<img src="https://avatars2.githubusercontent.com/u/26686523?s=460&v=4" width="200"/>](https://github.com/3m0W33D) | [<img src="https://avatars0.githubusercontent.com/u/16810847?s=100&v=4" width="200"/>](https://github.com/arraysius)  |
+| :-: | :-: | :-: | :-: |
+| [@rizemon](https://github.com/rizemon) | [@kelvneo](https://github.com/kelvneo) | [@3m0W33D](https://github.com/3m0W33D) | [@arraysius](https://github.com/arraysius) |
 
 ## Challenges
 
@@ -25,19 +25,19 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [ ] SkipBytes
 
 ### [Cloud](cloud/)
-- [x] Find the leaking bucket!
-- [x] Hold the line! Perimeter defences doing its work!
+- [x] [Find the leaking bucket!](cloud/Find%20the%20leaking%20bucket!/)
+- [x] [Hold the line! Perimeter defences doing its work!](cloud/Hold%20the%20line!%20Perimeter%20defences%20doing%20it's%20work!)
 - [ ] Share and deploy the containers!
 - [ ] Keep cracking it...
 
 ### [Cryptography](crypto/)
-- [x] Can COViD steal Bob's idea?
+- [x] [Can COViD steal Bob's idea?](crypto/Can%20COViD%20steal%20Bob's%20idea/)
 - [ ] Can COViD break Alice's design?
 - [ ] COViD is able to compromise our IoT encryption system, how come?
 
 ### [Forensics](forensics/)
 - [ ] Walking down a colourful memory lane
-- [x] Voices in the head
+- [x] [Voices in the head](forensics/Voices%20in%20the%20head/)
 - [ ] Corrupted Hive
 
 ### [Internet of Things](iot/)
@@ -47,12 +47,12 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [ ] IOT RSA Token
 
 ### [Miscellaneous](misc/)
-- [x] Diving in
-- [x] FWO FWF
-- [x] REconstrucQ 
+- [x] [Diving in](misc/Diving%20in)
+- [x] [FWO FWF](misc/FWO%20FWF/)
+- [x] [REconstrucQ](misc/REconstrucQ/)
 - [x] Beep Boop
 - [x] Emmel
-- [x] Where's the flag?
+- [x] [Where's the flag?](misc/Where's%20the%20flag)
 - [ ] Welcome Challenge 
 
 ### [Mobile](mobile/)
@@ -91,8 +91,8 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [x] Find the last seen location of where one of the Korovax's staff is at.
 
 ### [Web](web/)
-- [x] Unlock Me
-- [x] [Logged In](web/Logged\ In)
+- [x] [Unlock Me](web/Unlock%20Me/)
+- [x] [Logged In](web/Logged%20In/)
 - [ ] You shall not pass!
 - [ ] Ransom Me This
 - [ ] Feed the Beast
