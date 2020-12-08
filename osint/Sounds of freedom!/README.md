@@ -25,7 +25,7 @@ The water body that we first identified was "Punggol Park" and was located near 
 
 ![](location2.png) ![](location3.png)
 
-We can now confirm that the video was taken from a building in "Parkland Residences" and there was also a bus stop opposite it. Therefore, the postal code (provided by Google) is `538768`.
+We can now confirm that the video was taken from a building in "Parkland Residences". Therefore, the postal code (provided by Google) is `538768`.
 
 ## Flag
 `govtech-csg{538768}`
