@@ -1,6 +1,6 @@
 # Title
 
-### Points: FinalPoints [OriginalPoints]
+> Points: FinalPoints [OriginalPoints]
 
 ## Description
 
