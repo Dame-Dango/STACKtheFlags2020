@@ -16,8 +16,10 @@ This challenge was an interesting javascript reversing challenge that look somew
 Opening the index.html gave us a blank html page which was a little puzzling. Checking the console showed us this error'
 `invite.js:1 Uncaught ReferenceError: gl is not defined
     at invite.js:1`  
+
 Taking a look at the `invite.js` we are greeted with a nasty obfuscated code
 Let's try deobfuscating it with https://lelinhtinh.github.io/de4js/, the result can be found in [invite_formatted.js](invite_formatted.js)  
+
 At this point we started going through the code manually and slow identified portions of the code and found the piece of code causing the error mentioned above
 
 ```javascript
@@ -154,7 +156,8 @@ setTimeout(function () {
     iii(x)
 }, 2000);
 ```
-Reading through this code we commented out the debugger function and noticed the `iii` function which had called `atob(ascii to base64 javascript function)`.  
+Reading through this code we commented out the debugger function and noticed the `iii` function which had called `atob(ascii to base64 javascript function)`.
+
 This was when we knew it must be hidding something. As such we commented out the if check and identified the `rrr` variable was related to `eee` variable.
 ``` javascript
 function iii(eee) {
@@ -178,8 +181,10 @@ function iii(eee) {
 //     debugger
 // }
 ```
-Since `eee` was the parameter we had to check what was the value of `eee`.   
+Since `eee` was the parameter we had to check what was the value of `eee`.  
+
 Upon further inspection we know the `iii(x)` was called at the end of the javascript and since x had only 2 values for 3 choices there was only 8 possible combination for it.  
+
 After some further adjustment the flag appeared in the alert with the code below
 
 ```javascript
