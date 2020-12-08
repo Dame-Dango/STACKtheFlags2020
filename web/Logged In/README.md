@@ -1,6 +1,6 @@
 # Logged In
 
-### Points: 976 [1000]
+> Points: 976 [1000]
 
 ## Description 
 > It looks like COViD's mobile application is connecting to this API! Fortunately, our agents stole part of the source code. Can you find a way to log in?
