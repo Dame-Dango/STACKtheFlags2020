@@ -1,0 +1,15 @@
+{
+  "name": "stf-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "safe-eval": "^0.3.0"
+  }
+}
