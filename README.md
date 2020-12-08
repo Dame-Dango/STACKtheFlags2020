@@ -7,10 +7,10 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 ![Scoreboard](images/scoreboard.jpg)
 
 ## Members Playing
-- @rizemon
-- @kelvneo
-- @3m0W33D
-- @arraysius
+- [@rizemon](https://github.com/rizemon)
+- [@kelvneo](https://github.com/kelvneo)
+- [@3m0W33D](https://github.com/3m0W33D)
+- [@arraysius](https://github.com/arraysius)
 
 ## Challenges
 
@@ -91,7 +91,7 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [x] Find the last seen location of where one of the Korovax's staff is at.
 
 ### [Web](web/)
-- [x] Unlock Me
+- [x] [Unlock Me](web/Unlock%20Me/)
 - [x] [Logged In](web/Logged%20In/)
 - [ ] You shall not pass!
 - [ ] Ransom Me This
