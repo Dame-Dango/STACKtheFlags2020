@@ -18,44 +18,44 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [x] STACK the Flags - Pre-Event Feedback
 - [x] STACK the Flags - Post-Event Feedback
 
-### Binary Exploitation
+### [Binary Exploitation](be/)
 - [x] Beta reporting system
 - [ ] Finding out COVID's motives
 - [ ] Stop COVID's recruitment!
 - [ ] SkipBytes
 
-### Cloud
+### [Cloud](cloud/)
 - [x] Find the leaking bucket!
 - [x] Hold the line! Perimeter defences doing its work!
 - [ ] Share and deploy the containers!
 - [ ] Keep cracking it...
 
-### Cryptography
+### [Cryptography](crypto/)
 - [x] Can COViD steal Bob's idea?
 - [ ] Can COViD break Alice's design?
 - [ ] COViD is able to compromise our IoT encryption system, how come?
 
-### Forensics
+### [Forensics](forensics/)
 - [ ] Walking down a colourful memory lane
 - [x] Voices in the head
 - [ ] Corrupted Hive
 
-### Internet of Things
+### [Internet of Things](iot/)
 - [ ] The suspicious frequency monitoring alert!
 - [ ] COVID's Communication Technology!
 - [x] I smell updates!
 - [ ] IOT RSA Token
 
-### Miscellaneous
+### [Miscellaneous](misc/)
 - [x] Diving in
 - [x] FWO FWF
 - [x] REconstrucQ 
-- [ ] Welcome Challenge 
 - [x] Beep Boop
 - [x] Emmel
 - [x] Where's the flag?
+- [ ] Welcome Challenge 
 
-### Mobile
+### [Mobile](mobile/)
 - [x] Contact Us!
 - [x] Subscribe!
 - [x] What's with the Search!
@@ -70,7 +70,7 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [ ] Stats
 - [ ] All Roads Lead to Rome!
 
-### Open Source Intelligence
+### [Open Source Intelligence](osint/)
 - [x] Only time will tell!
 - [x] What is he working on? Some high value project?
 - [x] Sounds of freedom!
@@ -79,20 +79,20 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [ ] Treasure Media
 - [x] Who are the possible kidnappers?
 
-### Reverse Engineering
+### [Reverse Engineering](re/)
 - [x] An invitation
 - [ ] Time travel
 - [ ] Striking Back #1 - Password Manager
 - [ ] What is this weird program?
 - [ ] Figure out this missive from COViD to his intern!
 
-### Social Engineering
+### [Social Engineering](se/)
 - [x] Can you trick OrgX into giving away their credentials?
 - [x] Find the last seen location of where one of the Korovax's staff is at.
 
-### Web
+### [Web](web/)
 - [x] Unlock Me
-- [x] Logged In
+- [x] [Logged In](web/Logged\ In)
 - [ ] You shall not pass!
 - [ ] Ransom Me This
 - [ ] Feed the Beast
