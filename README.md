@@ -25,19 +25,19 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [ ] SkipBytes
 
 ### [Cloud](cloud/)
-- [x] [Find the leaking bucket!](cloud/Find\ the\ leaking\ bucket!/)
-- [x] [Hold the line! Perimeter defences doing its work!](cloud/Hold\ the\ line!\ Perimeter\ defences\ doing\ it's\ work!)
+- [x] [Find the leaking bucket!](cloud/Find%20the%20leaking%20bucket!/)
+- [x] [Hold the line! Perimeter defences doing its work!](cloud/Hold%20the%20line!%20Perimeter%20defences%20doing%20it's%20work!)
 - [ ] Share and deploy the containers!
 - [ ] Keep cracking it...
 
 ### [Cryptography](crypto/)
-- [x] [Can COViD steal Bob's idea?](crypto/Can\ COViD\ steal\ Bob's\ idea/)
+- [x] [Can COViD steal Bob's idea?](crypto/Can%20COViD%20steal%20Bob's%20idea/)
 - [ ] Can COViD break Alice's design?
 - [ ] COViD is able to compromise our IoT encryption system, how come?
 
 ### [Forensics](forensics/)
 - [ ] Walking down a colourful memory lane
-- [x] [Voices in the head](forensics/Voices\ in\ the\ head/)
+- [x] [Voices in the head](forensics/Voices%20in%20the%20head/)
 - [ ] Corrupted Hive
 
 ### [Internet of Things](iot/)
@@ -47,12 +47,12 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [ ] IOT RSA Token
 
 ### [Miscellaneous](misc/)
-- [x] [Diving in](misc/Diving\ in)
-- [x] [FWO FWF](misc/FWO\ FWF/)
+- [x] [Diving in](misc/Diving%20in)
+- [x] [FWO FWF](misc/FWO%20FWF/)
 - [x] [REconstrucQ](misc/REconstrucQ/)
 - [x] Beep Boop
 - [x] Emmel
-- [x] [Where's the flag?](misc/Where's\ the\ flag)
+- [x] [Where's the flag?](misc/Where's%20the%20flag)
 - [ ] Welcome Challenge 
 
 ### [Mobile](mobile/)
@@ -92,7 +92,7 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 
 ### [Web](web/)
 - [x] Unlock Me
-- [x] [Logged In](web/Logged\ In/)
+- [x] [Logged In](web/Logged%20In/)
 - [ ] You shall not pass!
 - [ ] Ransom Me This
 - [ ] Feed the Beast

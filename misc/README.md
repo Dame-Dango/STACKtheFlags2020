@@ -1,8 +1,8 @@
 # Miscellaneous
-- [x] [Diving in](Diving\ in)
-- [x] [FWO FWF](FWO\ FWF/)
+- [x] [Diving in](Diving%20in)
+- [x] [FWO FWF](FWO%20FWF/)
 - [x] [REconstrucQ](REconstrucQ/)
 - [x] Beep Boop
 - [x] Emmel
-- [x] [Where's the flag?](Where's\ the\ flag)
+- [x] [Where's the flag?](Where's%20the%20flag)
 - [ ] Welcome Challenge 
