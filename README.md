@@ -56,12 +56,12 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [ ] Welcome Challenge 
 
 ### [Mobile](mobile/)
-- [x] Contact Us!
-- [x] Subscribe!
+- [x] [Contact Us!](mobile/Contact%20Us!/)
+- [x] [Subscribe!](mobile/Subscribe!/)
 - [x] What's with the Search!
-- [x] All about Korovax!
+- [x] All about Korovax!  
 - [ ] Version
-- [x] Welcome to Korovax Mobile!
+- [x] [Welcome to Korovax Mobile!](mobile/Welcome%20to%20Korovax%20Mobile!)
 - [x] True or false?
 - [x] Korovax way to protect yourself!
 - [ ] Task, task, task! 
