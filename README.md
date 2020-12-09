@@ -71,13 +71,13 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [ ] All Roads Lead to Rome!
 
 ### [Open Source Intelligence](osint/)
-- [x] Only time will tell!
-- [x] What is he working on? Some high value project?
-- [x] Sounds of freedom!
-- [x] Where was he kidnapped?
-- [x] Hunt him down!
+- [x] [Only time will tell!](osint/Only%20time%20will%20tell!)
+- [x] [What is he working on? Some high value project?](osint/What%20is%20he%20working%20on%20Some%20high%20value%20project)
+- [x] [Sounds of freedom!](osint/Sounds%20of%20freedom!)
+- [x] [Where was he kidnapped?](osint/Where%20was%20he%20kidnapped)
+- [x] [Hunt him down!](osint/Hunt%20him%20down!)
 - [ ] Treasure Media
-- [x] Who are the possible kidnappers?
+- [x] [Who are the possible kidnappers?](osint/Who%20are%20the%20possible%20kidnappers)
 
 ### [Reverse Engineering](re/)
 - [x] An invitation
