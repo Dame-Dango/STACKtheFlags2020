@@ -50,7 +50,7 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [x] [Diving in](misc/Diving%20in)
 - [x] [FWO FWF](misc/FWO%20FWF/)
 - [x] [REconstrucQ](misc/REconstrucQ/)
-- [x] Beep Boop
+- [x] [Beep Boop](misc/Beep%20Boop)
 - [x] Emmel
 - [x] [Where's the flag?](misc/Where's%20the%20flag)
 - [ ] Welcome Challenge 
@@ -87,8 +87,8 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [ ] Figure out this missive from COViD to his intern!
 
 ### [Social Engineering](se/)
-- [x] Can you trick OrgX into giving away their credentials?
-- [x] Find the last seen location of where one of the Korovax's staff is at.
+- [x] [Can you trick OrgX into giving away their credentials?](se/Can%20you%20trick%20OrgX%20into%20giving%20away%20their%20credentials?)
+- [x] [Find the last seen location of where one of the Korovax's staff is at.](se/Find%20the%20last%20seen%20location%20of%20where%20one%20of%20the%20Korovax's%20staff%20is%20at)
 
 ### [Web](web/)
 - [x] [Unlock Me](web/Unlock%20Me/)
