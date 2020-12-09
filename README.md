@@ -19,7 +19,7 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [x] STACK the Flags - Post-Event Feedback
 
 ### [Binary Exploitation](be/)
-- [x] Beta reporting system
+- [x] [Beta reporting system](be/Beta%20reporting%20system)
 - [ ] Finding out COVID's motives
 - [ ] Stop COVID's recruitment!
 - [ ] SkipBytes
