@@ -4,8 +4,10 @@
 
 ## Description 
 >Our agents discovered COViD's admin panel! They also stole the credentials **minion:banana**, but it seems that the user isn't allowed in. Can you find another way?  
+>
 > [Admin Panel](http://yhi8bpzolrog3yw17fe0wlwrnwllnhic.alttablabs.sg:41031/)  
 >This challenge:
+>
 >- Unlocks other challenge(s)
 >- Is eligible for Awesome Write-ups Award
 >- Prerequisite for Mastery Award - Web Warrior

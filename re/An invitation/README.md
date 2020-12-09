@@ -5,7 +5,9 @@
 ## Description
 
 >We want you to be a member of the Cyber Defense Group! Your invitation has been encoded to avoid being detected by COViD's sensors. Decipher the invitation and join in the fight!
->Please view this Document for download instructions.
+>
+>Please view this Document for download instructions.  
+>
 >This challenge:
 >- Unlocks other challenge(s)
 >- Is eligible for Awesome Write-ups Award
