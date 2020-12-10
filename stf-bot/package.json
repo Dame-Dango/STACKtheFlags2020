@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.0",
-    "safe-eval": "^0.3.0"
+    "axios": "^0.21.0"
   }
 }

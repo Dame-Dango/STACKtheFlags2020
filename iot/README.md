@@ -1,3 +1,7 @@
+---
+layout: default
+nav_order: 1
+---
 # Internet of Things
 - [ ] The suspicious frequency monitoring alert!
 - [ ] COVID's Communication Technology!

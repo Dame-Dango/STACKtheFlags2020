@@ -1,3 +1,7 @@
+---
+layout: default
+nav_order: 1
+---
 # Miscellaneous
 - [x] [Diving in](Diving%20in)
 - [x] [FWO FWF](FWO%20FWF/)

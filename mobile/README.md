@@ -1,3 +1,7 @@
+---
+layout: default
+nav_order: 1
+---
 # Mobile
 
 All the challenges in this catagory are linked to [`mobile-challenge.apk`](mobile-challenge.apk).

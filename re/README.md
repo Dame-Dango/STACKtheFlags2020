@@ -1,3 +1,7 @@
+---
+layout: default
+nav_order: 1
+---
 # Reverse Engineering
 - [x] [An invitation](An%20invitation)
 - [ ] Time travel

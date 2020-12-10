@@ -1,3 +1,7 @@
+---
+layout: default
+nav_order: 1
+---
 # Open Source Intelligence
 - [x] [Only time will tell!](Only%20time%20will%20tell!)
 - [x] [What is he working on? Some high value project?](What%20is%20he%20working%20on%20Some%20high%20value%20project)
