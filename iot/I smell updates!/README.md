@@ -1,3 +1,9 @@
+---
+layout: default
+title: I smell updates!
+parent: Internet of Things
+nav_order: 2
+---
 # I smell updates!
 
 > Points: 1989 [2000]

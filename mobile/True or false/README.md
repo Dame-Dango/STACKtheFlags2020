@@ -1,3 +1,9 @@
+---
+layout: default
+title: True or false?
+parent: Mobile
+nav_order: 2
+---
 # True or false?
 
 > Points: 1985 [2000]

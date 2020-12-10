@@ -1,3 +1,9 @@
+---
+layout: default
+title: Subscribe!
+parent: Mobile
+nav_order: 2
+---
 # Subscribe!
 
 > Points: 977 [1000]

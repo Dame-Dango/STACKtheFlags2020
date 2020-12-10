@@ -1,6 +1,8 @@
 ---
 layout: default
-nav_order: 1
+title: Open Source Intelligence
+nav_order: 2
+has_children: true
 ---
 # Open Source Intelligence
 - [x] [Only time will tell!](Only%20time%20will%20tell!)

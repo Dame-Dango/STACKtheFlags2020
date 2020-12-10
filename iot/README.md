@@ -1,6 +1,8 @@
 ---
 layout: default
-nav_order: 1
+title: Internet of Things
+nav_order: 2
+has_children: true
 ---
 # Internet of Things
 - [ ] The suspicious frequency monitoring alert!

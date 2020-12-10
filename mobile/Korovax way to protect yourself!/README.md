@@ -1,3 +1,9 @@
+---
+layout: default
+title: Korovax way to protect yourself!
+parent: Mobile
+nav_order: 2
+---
 # Korovax way to protect yourself!
 
 > Points: 1989 [2000]

@@ -1,6 +1,8 @@
 ---
 layout: default
-nav_order: 1
+title: Social Engineering
+nav_order: 2
+has_children: true
 ---
 # Social Engineering
 - [x] [Can you trick OrgX into giving away their credentials?](Can%20you%20trick%20OrgX%20into%20giving%20away%20their%20credentials?)

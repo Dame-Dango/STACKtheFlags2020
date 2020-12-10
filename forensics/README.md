@@ -1,6 +1,8 @@
 ---
 layout: default
-nav_order: 1
+title: Forensics
+nav_order: 2
+has_children: true
 ---
 # Forensics
 - [ ] Walking down a colourful memory lane

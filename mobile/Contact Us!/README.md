@@ -1,3 +1,9 @@
+---
+layout: default
+title: Contact Us!
+parent: Mobile
+nav_order: 2
+---
 # Contact Us!
 
 > Points: 959 [1000]

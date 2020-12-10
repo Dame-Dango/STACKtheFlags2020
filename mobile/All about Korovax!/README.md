@@ -1,3 +1,9 @@
+---
+layout: default
+title: All about Korovax!
+parent: Mobile
+nav_order: 2
+---
 # All about Korovax!
 
 > Points: 994 [1000]

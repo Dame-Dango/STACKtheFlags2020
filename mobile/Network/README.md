@@ -1,3 +1,9 @@
+---
+layout: default
+title: Network?
+parent: Mobile
+nav_order: 2
+---
 # Network?
 
 > Points: 1991 [2000]
