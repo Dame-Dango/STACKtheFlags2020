@@ -1,6 +1,7 @@
 ---
 layout: default
 title: REconstrucQ
+permalink: /:path/
 parent: Miscellaneous
 nav_order: 2
 ---

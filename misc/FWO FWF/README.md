@@ -2,6 +2,7 @@
 layout: default
 title: FWO FWF
 parent: Miscellaneous
+permalink: /:path/
 nav_order: 2
 ---
 # FWO FWF

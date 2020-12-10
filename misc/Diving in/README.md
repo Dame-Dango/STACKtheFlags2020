@@ -2,6 +2,7 @@
 layout: default
 title: Diving in
 parent: Miscellaneous
+permalink: /:path/
 nav_order: 2
 ---
 # Diving in

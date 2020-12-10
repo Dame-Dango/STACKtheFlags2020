@@ -2,6 +2,7 @@
 layout: default
 title: Welcome to Korovax Mobile!
 parent: Mobile
+permalink: /:path/
 nav_order: 2
 ---
 # Welcome to Korovax Mobile!

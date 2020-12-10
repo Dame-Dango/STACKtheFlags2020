@@ -1,6 +1,7 @@
 ---
 layout: default
 title: All about Korovax!
+permalink: /:path/
 parent: Mobile
 nav_order: 2
 ---

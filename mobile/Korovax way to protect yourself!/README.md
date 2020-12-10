@@ -2,6 +2,7 @@
 layout: default
 title: Korovax way to protect yourself!
 parent: Mobile
+permalink: /:path/
 nav_order: 2
 ---
 # Korovax way to protect yourself!

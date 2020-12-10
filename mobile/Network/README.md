@@ -2,6 +2,7 @@
 layout: default
 title: Network?
 parent: Mobile
+permalink: /:path/
 nav_order: 2
 ---
 # Network?

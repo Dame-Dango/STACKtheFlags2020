@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Reverse Engineering
+has_toc: false
 nav_order: 2
 has_children: true
+permalink: /:path/
 ---
 # Reverse Engineering
-- [x] [An invitation](An%20invitation/README.md)
+- [x] [An invitation](An%20invitation/)
 - [ ] Time travel
 - [ ] Striking Back #1 - Password Manager
 - [ ] What is this weird program?
