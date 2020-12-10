@@ -7,5 +7,5 @@ has_children: true
 # Internet of Things
 - [ ] The suspicious frequency monitoring alert!
 - [ ] COVID's Communication Technology!
-- [x] [I smell updates!](I%20smell%20updates!)
+- [x] [I smell updates!](I%20smell%20updates!/README.md)
 - [ ] IOT RSA Token

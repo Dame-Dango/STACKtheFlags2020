@@ -16,8 +16,8 @@ nav_order: 2
 > 
 
 ## Solution
-1. As a continuation from [`mobile/Contact Us!`](../Contact%20Us!), we continue to analyze the code from `sg.gov.tech.ctf.mobile.Contact.ContactForm.java` 
-2. Unlike [`mobile/Contact Us!`](../Contact%20Us!), it appears we have to look at the `native` functions that are called within the `.java` class itself.
+1. As a continuation from [`mobile/Contact Us!`](../Contact%20Us!/README.md), we continue to analyze the code from `sg.gov.tech.ctf.mobile.Contact.ContactForm.java` 
+2. Unlike [`mobile/Contact Us!`](../Contact%20Us!/README.md), it appears we have to look at the `native` functions that are called within the `.java` class itself.
 ```java
     public native int check(String str);
 

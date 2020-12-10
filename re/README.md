@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 # Reverse Engineering
-- [x] [An invitation](An%20invitation)
+- [x] [An invitation](An%20invitation/README.md)
 - [ ] Time travel
 - [ ] Striking Back #1 - Password Manager
 - [ ] What is this weird program?

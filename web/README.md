@@ -5,8 +5,8 @@ nav_order: 2
 has_children: true
 ---
 # Web
-- [x] [Unlock Me](Unlock%20Me/)
-- [x] [Logged In](Logged%20In/)
+- [x] [Unlock Me](Unlock%20Me/README.md)
+- [x] [Logged In](Logged%20In/README.md)
 - [ ] You shall not pass!
 - [ ] Ransom Me This
 - [ ] Feed the Beast

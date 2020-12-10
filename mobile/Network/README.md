@@ -69,7 +69,7 @@ nav_order: 2
         this.f2865c = new PrintWriter((Writer) new OutputStreamWriter(this.f2864b, charset), true);
     }
 ```
-4. Opening up Postman, we can then send a POST request to `http://yhi8bpzolrog3yw17fe0wlwrnwllnhic.alttablabs.sg:41061/api/login`, and set the admin username and password we found in [mobile/True or false?](../True%20or%20false/), then sending the payload, which yields us the flag!
+4. Opening up Postman, we can then send a POST request to `http://yhi8bpzolrog3yw17fe0wlwrnwllnhic.alttablabs.sg:41061/api/login`, and set the admin username and password we found in [mobile/True or false?](../True%20or%20false/README.md), then sending the payload, which yields us the flag!
 ![Postman](postman.png)
 ```json
 {
