@@ -78,6 +78,7 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [x] [Hunt him down!](osint/Hunt%20him%20down!)
 - [ ] Treasure Media
 - [x] [Who are the possible kidnappers?](osint/Who%20are%20the%20possible%20kidnappers)
+- [ ] X marks the spot
 
 ### [Reverse Engineering](re/)
 - [x] An invitation
@@ -89,6 +90,7 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 ### [Social Engineering](se/)
 - [x] [Can you trick OrgX into giving away their credentials?](se/Can%20you%20trick%20OrgX%20into%20giving%20away%20their%20credentials?)
 - [x] [Find the last seen location of where one of the Korovax's staff is at.](se/Find%20the%20last%20seen%20location%20of%20where%20one%20of%20the%20Korovax's%20staff%20is%20at)
+- [ ] Save Josh!
 
 ### [Web](web/)
 - [x] [Unlock Me](web/Unlock%20Me/)

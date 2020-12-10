@@ -13,7 +13,7 @@
 
 ## Solution
 
-In KoroVax's [Facebook replica](http://fb.korovax.org), on Ashley's profile, there was mention of a bot called "DAViD".
+In KoroVax's [Facebook replica](http://fb.korovax.org), on Ashley's profile, there was a mention of a bot called "DAViD".
 
 ![](fb.jpg)
 

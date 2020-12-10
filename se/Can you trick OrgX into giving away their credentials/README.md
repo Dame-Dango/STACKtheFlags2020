@@ -13,7 +13,11 @@
 
 ## Solution
 
-On KoroVax's [Facebook replica](http://fb.korovax.org), we found a user called "William Birkin" who was writing about resetting his password (We can't remember and we didn't save a screenshot for this). He was also confirming the email of what seems to be the IT Support of the organisation, which is `ictadmin@korovax.org`. There was a comment by his colleague Amanda Lee, who said that they will only respond "when there's specific content".
+On KoroVax's [Facebook replica](http://fb.korovax.org), we found a user called "William Birkin" who was writing about resetting his password (We can't remember and we didn't save a screenshot for this). 
+
+![](davidagain.png)
+
+He was also confirming the email of what seems to be the IT Support of the organisation, which is `ictadmin@korovax.org`. There was a comment by his colleague Amanda Lee, who said that they will only respond "when there's specific content".
 
 ![](fb.png)
 

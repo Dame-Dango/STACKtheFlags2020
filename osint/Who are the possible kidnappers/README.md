@@ -52,7 +52,15 @@ The [`/oh-ho/`](https://korovax.org/oh-ho/) page did mention about `blue..someth
 
 ![](twitter.png)
 
-Maybe the password is `Blue sky communications`? According to the the [organisation website](http://korovax.org/team/), her email was `sarahmiller@korovax.org`. With her email and password, we were able to login to her account on the [Facebook replica](http://fb.korovax.org)!
+Maybe the password is `Blue sky communications`?
+
+Now, we just need her email. According to the the [organisation website](http://korovax.org/team/), her email was `sarah.miller@korovax.org`. 
+
+
+![](sarahemail.png)
+
+
+With her email and password, we were able to login to her account on the [Facebook replica](http://fb.korovax.org)!
 
 
 ## Flag
