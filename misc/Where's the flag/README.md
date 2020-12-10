@@ -1,3 +1,9 @@
+---
+layout: default
+title: Where's the flag?
+parent: Miscellaneous
+nav_order: 2
+---
 # Where's the flag?
 
 > Points: 1971 [2000]

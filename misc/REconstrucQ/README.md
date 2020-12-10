@@ -1,3 +1,9 @@
+---
+layout: default
+title: REconstrucQ
+parent: Miscellaneous
+nav_order: 2
+---
 # REconstrucQ
 
 > Points: 739 [100]

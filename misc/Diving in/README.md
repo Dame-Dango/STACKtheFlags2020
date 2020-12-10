@@ -1,3 +1,9 @@
+---
+layout: default
+title: Diving in
+parent: Miscellaneous
+nav_order: 2
+---
 # Diving in
 
 > Points: 526 [1000]

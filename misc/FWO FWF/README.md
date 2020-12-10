@@ -1,3 +1,9 @@
+---
+layout: default
+title: FWO FWF
+parent: Miscellaneous
+nav_order: 2
+---
 # FWO FWF
 
 > Points: 587 [1000]
