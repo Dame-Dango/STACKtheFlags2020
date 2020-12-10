@@ -33,8 +33,9 @@ remote_theme: pmarsceill/just-the-docs
 # color_scheme: dark
 # minimal_mistakes_skin: "dark"
 # breadcrumbs: true
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-relative-links
+  # - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
