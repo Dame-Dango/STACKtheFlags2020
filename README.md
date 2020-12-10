@@ -43,7 +43,7 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 ### [Internet of Things](iot/)
 - [ ] The suspicious frequency monitoring alert!
 - [ ] COVID's Communication Technology!
-- [x] I smell updates!
+- [x] [I smell updates!](iot/I%20smell%20updates!)
 - [ ] IOT RSA Token
 
 ### [Miscellaneous](misc/)
@@ -51,7 +51,7 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [x] [FWO FWF](misc/FWO%20FWF/)
 - [x] [REconstrucQ](misc/REconstrucQ/)
 - [x] [Beep Boop](misc/Beep%20Boop/)
-- [x] Emmel
+- [x] [Emmel](misc/Emmel/)
 - [x] [Where's the flag?](misc/Where's%20the%20flag/)
 - [ ] Welcome Challenge 
 
