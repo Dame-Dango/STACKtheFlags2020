@@ -87,7 +87,7 @@ public class b {
     }
 }
 ```
-4. Looking back at `onCreate`, tt appears that they call `this.f2976c.setAdapter(new b(this, getSupportFragmentManager()));` to set the layouts for the tabs, so we should see what is the `b` class in this java file. We can see that at position 0 (which should be the login tab), it gets the layout from `f.a.a.a.a.e.a`. 
+4. Looking back at `onCreate`, it appears that they call `this.f2976c.setAdapter(new b(this, getSupportFragmentManager()));` to set the layouts for the tabs, so we should see what is the `b` class in this java file. We can see that at position 0 (which should be the login tab), it gets the layout from `f.a.a.a.a.e.a`. 
 ```java
     public class b extends n {
         public b(AuthenticationActivity authenticationActivity, i fm) {
@@ -144,7 +144,7 @@ public class b {
             } // Line 125 - 127
         // ...
 ```
-6. So I decoded every single magic number using the code from [`mobile/Contact Us!`](../Contact%20Us!)... which gives us the flag!
+6. So we decoded every single magic number using the code from [`mobile/Contact Us!`](../Contact%20Us!)... which gives us the flag!
 ```java
         // ...
         SQLiteDatabase db = dbhelper.getWritableDatabase("12345"); // Line 38

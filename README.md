@@ -18,15 +18,15 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [x] STACK the Flags - Pre-Event Feedback
 - [x] STACK the Flags - Post-Event Feedback
 
-### [Binary Exploitation](be/)
-- [x] [Beta reporting system](be/Beta%20reporting%20system)
+### [Binary Exploitation](binary/)
+- [x] [Beta reporting system](binary/Beta%20reporting%20system/)
 - [ ] Finding out COVID's motives
 - [ ] Stop COVID's recruitment!
 - [ ] SkipBytes
 
 ### [Cloud](cloud/)
 - [x] [Find the leaking bucket!](cloud/Find%20the%20leaking%20bucket!/)
-- [x] [Hold the line! Perimeter defences doing its work!](cloud/Hold%20the%20line!%20Perimeter%20defences%20doing%20it's%20work!)
+- [x] [Hold the line! Perimeter defences doing its work!](cloud/Hold%20the%20line!%20Perimeter%20defences%20doing%20it's%20work!/)
 - [ ] Share and deploy the containers!
 - [ ] Keep cracking it...
 
@@ -47,49 +47,49 @@ Overall though, we are happy with our placing in the end, having placed in the 1
 - [ ] IOT RSA Token
 
 ### [Miscellaneous](misc/)
-- [x] [Diving in](misc/Diving%20in)
+- [x] [Diving in](misc/Diving%20in/)
 - [x] [FWO FWF](misc/FWO%20FWF/)
 - [x] [REconstrucQ](misc/REconstrucQ/)
-- [x] [Beep Boop](misc/Beep%20Boop)
+- [x] [Beep Boop](misc/Beep%20Boop/)
 - [x] Emmel
-- [x] [Where's the flag?](misc/Where's%20the%20flag)
+- [x] [Where's the flag?](misc/Where's%20the%20flag/)
 - [ ] Welcome Challenge 
 
 ### [Mobile](mobile/)
 - [x] [Contact Us!](mobile/Contact%20Us!/)
 - [x] [Subscribe!](mobile/Subscribe!/)
-- [x] What's with the Search!
-- [x] All about Korovax!  
+- [x] [What's with the Search!](mobile/What's%20with%20the%20Search!)
+- [x] [All about Korovax!](mobile/All%20about%20Korovax!/)
 - [ ] Version
 - [x] [Welcome to Korovax Mobile!](mobile/Welcome%20to%20Korovax%20Mobile!)
-- [x] True or false?
-- [x] Korovax way to protect yourself!
+- [x] [True or false?](mobile/True%20or%20false/)
+- [x] [Korovax way to protect yourself!](mobile/Korovax%20way%20to%20protect%20yourself!/)
 - [ ] Task, task, task! 
-- [x] Network?
+- [x] [Network?](mobile/Network/)
 - [ ] A to Z of COViD!
 - [ ] Stats
 - [ ] All Roads Lead to Rome!
 
 ### [Open Source Intelligence](osint/)
-- [x] [Only time will tell!](osint/Only%20time%20will%20tell!)
+- [x] [Only time will tell!](osint/Only%20time%20will%20tell!/)
 - [x] [What is he working on? Some high value project?](osint/What%20is%20he%20working%20on%20Some%20high%20value%20project)
-- [x] [Sounds of freedom!](osint/Sounds%20of%20freedom!)
-- [x] [Where was he kidnapped?](osint/Where%20was%20he%20kidnapped)
-- [x] [Hunt him down!](osint/Hunt%20him%20down!)
+- [x] [Sounds of freedom!](osint/Sounds%20of%20freedom!/)
+- [x] [Where was he kidnapped?](osint/Where%20was%20he%20kidnapped/)
+- [x] [Hunt him down!](osint/Hunt%20him%20down!/)
 - [ ] Treasure Media
-- [x] [Who are the possible kidnappers?](osint/Who%20are%20the%20possible%20kidnappers)
+- [x] [Who are the possible kidnappers?](osint/Who%20are%20the%20possible%20kidnappers/)
 - [ ] X marks the spot
 
 ### [Reverse Engineering](re/)
-- [x] An invitation
+- [x] [An invitation](re/An%20invitation/)
 - [ ] Time travel
 - [ ] Striking Back #1 - Password Manager
 - [ ] What is this weird program?
 - [ ] Figure out this missive from COViD to his intern!
 
 ### [Social Engineering](se/)
-- [x] [Can you trick OrgX into giving away their credentials?](se/Can%20you%20trick%20OrgX%20into%20giving%20away%20their%20credentials?)
-- [x] [Find the last seen location of where one of the Korovax's staff is at.](se/Find%20the%20last%20seen%20location%20of%20where%20one%20of%20the%20Korovax's%20staff%20is%20at)
+- [x] [Can you trick OrgX into giving away their credentials?](se/Can%20you%20trick%20OrgX%20into%20giving%20away%20their%20credentials/)
+- [x] [Find the last seen location of where one of the Korovax's staff is at.](se/Find%20the%20last%20seen%20location%20of%20where%20one%20of%20the%20Korovax's%20staff%20is%20at/)
 - [ ] Save Josh!
 
 ### [Web](web/)
