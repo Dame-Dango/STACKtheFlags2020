@@ -6,3 +6,4 @@
 - [x] [Hunt him down!](Hunt%20him%20down!)
 - [ ] Treasure Media
 - [x] [Who are the possible kidnappers?](Who%20are%20the%20possible%20kidnappers)
+- [ ] X marks the spot
