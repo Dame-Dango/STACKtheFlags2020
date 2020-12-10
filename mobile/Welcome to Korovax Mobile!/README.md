@@ -151,7 +151,7 @@ public class b {
             } // Line 125 - 127
         // ...
 ```
-6. So we decoded every single magic number using the code from [`mobile/Contact Us!/README.md`](../Contact%20Us!/README.md)... which gives us the flag!
+6. So we decoded every single magic number using the code from [`mobile/Contact Us!`](../Contact%20Us!)... which gives us the flag!
 ```java
         // ...
         SQLiteDatabase db = dbhelper.getWritableDatabase("12345"); // Line 38

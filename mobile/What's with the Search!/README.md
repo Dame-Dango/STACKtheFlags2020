@@ -21,7 +21,7 @@ nav_order: 2
 > - Prerequisite for Mastery Award - Mobile Ace
 
 ## Solution
-1. From the continuation from [mobile/True or false?](../True%20or%20false/README.md), we first will take a look at the `sg.gov.tech.ctf.mobile.Admin.AdminHome.java`. The start of the file contains interesting native calls to `getPassswordHash()`, and it is used to compare to the user input in another `onClick()` method. If we can determine the hash method, and the original hash value, we can use it as the flag.
+1. From the continuation from [mobile/True or false?](../True%20or%20false/), we first will take a look at the `sg.gov.tech.ctf.mobile.Admin.AdminHome.java`. The start of the file contains interesting native calls to `getPassswordHash()`, and it is used to compare to the user input in another `onClick()` method. If we can determine the hash method, and the original hash value, we can use it as the flag.
 ```java
 // ...
 // Line 27

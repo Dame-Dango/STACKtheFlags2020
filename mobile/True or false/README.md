@@ -21,7 +21,7 @@ nav_order: 2
 > - Prerequisite for Mastery Award - Mobile Ace
 
 ## Solution
-1. Similar to how we solved [mobile/Welcome to Korovax Mobile!/README.md](../Welcome%20to%20Korovax%20Mobile!), we first will take a look at the `sg.gov.tech.ctf.mobile.Admin.AdminAuthenticationActivity.java`. From the `onCreate` method, we can see that they are also setting the same tab layouts as `sg.gov.tech.ctf.mobile.User.AuthenticationActivity.java`.
+1. Similar to how we solved [mobile/Welcome to Korovax Mobile!](../Welcome%20to%20Korovax%20Mobile!), we first will take a look at the `sg.gov.tech.ctf.mobile.Admin.AdminAuthenticationActivity.java`. From the `onCreate` method, we can see that they are also setting the same tab layouts as `sg.gov.tech.ctf.mobile.User.AuthenticationActivity.java`.
 ```java
     @Override // androidx.activity.ComponentActivity, a.h.d.d, a.k.a.d, a.b.k.d
     public void onCreate(Bundle savedInstanceState) {
@@ -126,7 +126,7 @@ nav_order: 2
         return query.replaceAll(c.a.a.a.a(-221748646379600L), c.a.a.a.a(-221709991673936L)).replaceAll(c.a.a.a.a(-221718581608528L), c.a.a.a.a(-221671336968272L)).replaceAll(c.a.a.a.a(-221645567164496L), c.a.a.a.a(-221615502393424L)).replaceAll(c.a.a.a.a(-221589732589648L), c.a.a.a.a(-221563962785872L)).replaceAll(c.a.a.a.a(-222087948795984L), c.a.a.a.a(-222062178992208L));
     }
 ```
-4. ... so we decoded every single magic number using the code from [`mobile/Contact Us!/README.md`](../Contact%20Us!/README.md)... which gives us the flag!
+4. ... so we decoded every single magic number using the code from [`mobile/Contact Us!`](../Contact%20Us!)... which gives us the flag!
 ```java
 // ...
 // Line 39 - 45
