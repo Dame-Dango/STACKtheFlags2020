@@ -1,3 +1,9 @@
+---
+layout: default
+title: Welcome to Korovax Mobile!
+parent: Mobile
+nav_order: 2
+---
 # Welcome to Korovax Mobile!
 
 > Points: 1975 [2000]

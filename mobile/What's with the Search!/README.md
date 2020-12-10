@@ -1,3 +1,9 @@
+---
+layout: default
+title: What's with the Search!
+parent: Mobile
+nav_order: 2
+---
 # What's with the Search!
 
 > Points: 994 [1000]

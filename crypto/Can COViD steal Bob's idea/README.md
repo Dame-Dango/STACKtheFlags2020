@@ -1,3 +1,9 @@
+---
+layout: default
+title: Can COViD steal Bob's idea?
+parent: Cryptography
+nav_order: 2
+---
 # Can COViD steal Bob's idea?
 
 > Points: 968 [1000]

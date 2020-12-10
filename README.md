@@ -1,3 +1,8 @@
+---
+layout: default
+title: Govtech's Stack The Flag CTF Competition
+nav_exclude: true
+---
 # Govtech's Stack The Flag CTF Competition
 
 It has been a while since our team has played officially for a Capture the Flag competition.
