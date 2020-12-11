@@ -47,7 +47,7 @@ GPS Position                    : 1 deg 17' 11.93" N, 103 deg 50' 48.61" E
 
 I then used the given website and got `1.286647` as the latitude and `103.846836` as the longtitude. 
 
-Next, we will need to guess the time that this picture was taken. From the point-of-view that this picture was taken, the camera was facing the west. And since the shadows were pointing towards the camera, it must in the afternoon. We tried a few time intervals before getting the right time slot: `1400-1600`.
+Next, we will need to guess the time that this picture was taken. From the point-of-view that this picture was taken, the camera was facing the west. And since the shadows were pointing towards the camera, it must in the afternoon. We tried a few time intervals before getting the right time slot: `1500-1700`.
 
 ## Flag
-`govtech-csg{1.286647_103.846836_2020:10:25_1400-1600}`
+`govtech-csg{1.286647_103.846836_2020:10:25_1500-1700}`
