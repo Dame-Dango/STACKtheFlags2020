@@ -1,3 +1,10 @@
+---
+layout: default
+title: Can you trick OrgX into giving away their credentials?
+permalink: /:path/
+parent: Social Engineering
+nav_order: 2
+---
 # Can you trick OrgX into giving away their credentials?
 
 > Points: 1988 [2000]

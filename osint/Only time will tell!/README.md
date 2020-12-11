@@ -1,3 +1,10 @@
+---
+layout: default
+title: Only time will tell!
+permalink: /:path/
+parent: Open Source Intelligence
+nav_order: 2
+---
 # Only time will tell!
 
 > Points: 772 [1000]

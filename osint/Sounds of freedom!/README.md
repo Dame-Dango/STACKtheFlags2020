@@ -1,3 +1,10 @@
+---
+layout: default
+title: Sounds of freedom!
+permalink: /:path/
+parent: Open Source Intelligence
+nav_order: 2
+---
 # Sounds of freedom!
 
 > Points: 861 [1000]

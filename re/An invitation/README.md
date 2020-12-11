@@ -1,3 +1,10 @@
+---
+layout: default
+title: An invitation
+permalink: /:path/
+parent: Reverse Engineering
+nav_order: 2
+---
 # An invitation
 
 > Points: 986 [1000]

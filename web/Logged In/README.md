@@ -1,3 +1,10 @@
+---
+layout: default
+title: Logged In
+permalink: /:path/
+parent: Web
+nav_order: 2
+---
 # Logged In
 
 > Points: 976 [1000]

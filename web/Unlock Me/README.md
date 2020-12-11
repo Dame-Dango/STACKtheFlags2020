@@ -1,3 +1,10 @@
+---
+layout: default
+title: Unlock Me
+permalink: /:path/
+parent: Web
+nav_order: 2
+---
 # Unlock Me
 
 > Points: 927 [1000]

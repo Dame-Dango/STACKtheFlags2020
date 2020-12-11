@@ -1,3 +1,10 @@
+---
+layout: default
+title: Emmel
+parent: Miscellaneous
+permalink: /:path/
+nav_order: 2
+---
 # Emmel
 
 > Points: 1222 [2000]
