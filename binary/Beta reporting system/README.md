@@ -1,3 +1,10 @@
+---
+layout: default
+title: Beta reporting system
+permalink: /:path/
+parent: Binary Exploitation
+nav_order: 1
+---
 # Beta reporting system
 
 > Points: 995 [1000]

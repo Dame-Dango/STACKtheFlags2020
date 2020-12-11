@@ -3,7 +3,7 @@ layout: default
 title: Network?
 parent: Mobile
 permalink: /:path/
-nav_order: 2
+nav_order: 8
 ---
 # Network?
 

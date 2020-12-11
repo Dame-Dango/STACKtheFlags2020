@@ -1,3 +1,10 @@
+---
+layout: default
+title: Voices in the head
+permalink: /:path/
+parent: Forensics
+nav_order: 1
+---
 # Voices in the head
 
 > Points: 1964 [2000]

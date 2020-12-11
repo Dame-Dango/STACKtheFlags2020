@@ -3,7 +3,7 @@ layout: default
 title: Subscribe!
 parent: Mobile
 permalink: /:path/
-nav_order: 2
+nav_order: 3
 ---
 # Subscribe!
 

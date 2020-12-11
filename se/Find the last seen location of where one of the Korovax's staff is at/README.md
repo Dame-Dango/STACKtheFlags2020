@@ -1,3 +1,10 @@
+---
+layout: default
+title: Find the last seen location of where one of the Korovax's staff is at.
+permalink: /:path/
+parent: Social Engineering
+nav_order: 2
+---
 # Find the last seen location of where one of the Korovax's staff is at.
 
 > Points: 1990 [2000]

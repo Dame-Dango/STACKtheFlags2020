@@ -3,7 +3,7 @@ layout: default
 title: Where's the flag?
 parent: Miscellaneous
 permalink: /:path/
-nav_order: 2
+nav_order: 6
 ---
 # Where's the flag?
 

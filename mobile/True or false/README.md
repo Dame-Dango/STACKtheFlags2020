@@ -3,7 +3,7 @@ layout: default
 title: True or false?
 parent: Mobile
 permalink: /:path/
-nav_order: 2
+nav_order: 6
 ---
 # True or false?
 

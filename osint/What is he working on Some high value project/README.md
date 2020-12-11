@@ -1,3 +1,10 @@
+---
+layout: default
+title: What is he working on? Some high value project?
+permalink: /:path/
+parent: Open Source Intelligence
+nav_order: 2
+---
 # What is he working on? Some high value project?
 
 > Points: 818 [1000]

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Hold the line! Perimeter defences doing it's work!
+permalink: /:path/
+parent: Cloud
+nav_order: 2
+---
 # Hold the line! Perimeter defences doing it's work!
 
 > Points: 1991 [2000]

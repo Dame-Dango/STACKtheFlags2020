@@ -3,7 +3,7 @@ layout: default
 title: Can COViD steal Bob's idea?
 parent: Cryptography
 permalink: /:path/
-nav_order: 2
+nav_order: 1
 ---
 # Can COViD steal Bob's idea?
 

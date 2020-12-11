@@ -3,7 +3,7 @@ layout: default
 title: I smell updates!
 parent: Internet of Things
 permalink: /:path/
-nav_order: 2
+nav_order: 1
 ---
 # I smell updates!
 

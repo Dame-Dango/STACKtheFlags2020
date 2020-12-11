@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Miscellaneous
-nav_order: 2
+nav_order: 7
 has_children: true
 has_toc: false
 permalink: /:path/

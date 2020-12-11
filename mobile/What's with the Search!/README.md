@@ -3,7 +3,7 @@ layout: default
 title: What's with the Search!
 parent: Mobile
 permalink: /:path/
-nav_order: 2
+nav_order: 3
 ---
 # What's with the Search!
 

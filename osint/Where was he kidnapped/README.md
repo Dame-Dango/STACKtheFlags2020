@@ -1,3 +1,10 @@
+---
+layout: default
+title: Where was he kidnapped?
+permalink: /:path/
+parent: Open Source Intelligence
+nav_order: 2
+---
 # Where was he kidnapped?
 
 > Points: 865 [1000]

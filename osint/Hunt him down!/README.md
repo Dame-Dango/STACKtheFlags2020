@@ -1,3 +1,10 @@
+---
+layout: default
+title: Hunt him down!
+permalink: /:path/
+parent: Open Source Intelligence
+nav_order: 5
+---
 # Hunt him down!
 
 > Points: 980 [1000]

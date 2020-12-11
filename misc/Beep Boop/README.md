@@ -1,3 +1,10 @@
+---
+layout: default
+title: Beep Boop
+parent: Miscellaneous
+permalink: /:path/
+nav_order: 4
+---
 # Beep Boop
 
 > Points: 950 [1000]
