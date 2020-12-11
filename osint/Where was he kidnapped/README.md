@@ -3,7 +3,7 @@ layout: default
 title: Where was he kidnapped?
 permalink: /:path/
 parent: Open Source Intelligence
-nav_order: 2
+nav_order: 4
 ---
 # Where was he kidnapped?
 
