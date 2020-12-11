@@ -1,5 +1,5 @@
 ---
-title: Govtech's STACK the Flags CTF Competition
+title: GovTech's STACK the Flags CTF Competition
 nav_order: 1
 permalink: index.html
 ---
