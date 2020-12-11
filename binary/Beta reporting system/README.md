@@ -51,7 +51,7 @@ Although this is reversing we will be pretty much looking at the decompiled code
 
 The **userchoice** function is basically here for the user to make choices. Let check out what each function does.
 ```c
-oid userchoice()
+void userchoice()
 {
   char buf; // [esp+4h] [ebp-14h]
   unsigned int v1; // [esp+Ch] [ebp-Ch]

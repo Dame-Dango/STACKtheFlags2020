@@ -3,7 +3,7 @@ title: Govtech's STACK the Flags CTF Competition
 nav_order: 1
 permalink: index.html
 ---
-# Govtech's STACK the Flags CTF Competition
+# GovTech's STACK the Flags CTF Competition
 
 It has been a while since our team has played officially for a Capture the Flag competition.
 
