@@ -3,7 +3,7 @@ layout: default
 title: Diving in
 parent: Miscellaneous
 permalink: /:path/
-nav_order: 2
+nav_order: 1
 ---
 # Diving in
 

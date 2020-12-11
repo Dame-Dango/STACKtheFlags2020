@@ -3,7 +3,7 @@ layout: default
 title: Hunt him down!
 permalink: /:path/
 parent: Open Source Intelligence
-nav_order: 2
+nav_order: 5
 ---
 # Hunt him down!
 

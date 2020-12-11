@@ -3,7 +3,7 @@ layout: default
 title: Welcome to Korovax Mobile!
 parent: Mobile
 permalink: /:path/
-nav_order: 2
+nav_order: 5
 ---
 # Welcome to Korovax Mobile!
 

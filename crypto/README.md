@@ -2,7 +2,7 @@
 layout: default
 title: Cryptography
 permalink: /:path/
-nav_order: 2
+nav_order: 4
 has_toc: false
 has_children: true
 ---

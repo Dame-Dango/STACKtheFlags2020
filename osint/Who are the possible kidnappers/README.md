@@ -3,7 +3,7 @@ layout: default
 title: Who are the possible kidnappers?
 permalink: /:path/
 parent: Open Source Intelligence
-nav_order: 2
+nav_order: 6
 ---
 # Who are the possible kidnappers?
 

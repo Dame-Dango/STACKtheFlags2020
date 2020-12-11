@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Open Source Intelligence
-nav_order: 2
+nav_order: 9
 has_toc: false
 has_children: true
 permalink: /:path/

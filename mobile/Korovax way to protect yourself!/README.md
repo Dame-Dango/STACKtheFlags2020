@@ -3,7 +3,7 @@ layout: default
 title: Korovax way to protect yourself!
 parent: Mobile
 permalink: /:path/
-nav_order: 2
+nav_order: 7
 ---
 # Korovax way to protect yourself!
 

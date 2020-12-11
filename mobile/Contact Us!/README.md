@@ -3,7 +3,7 @@ layout: default
 title: Contact Us!
 permalink: /:path/
 parent: Mobile
-nav_order: 2
+nav_order: 1
 ---
 # Contact Us!
 

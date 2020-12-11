@@ -3,7 +3,7 @@ layout: default
 title: Beta reporting system
 permalink: /:path/
 parent: Binary Exploitation
-nav_order: 2
+nav_order: 1
 ---
 # Beta reporting system
 

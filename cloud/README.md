@@ -2,7 +2,7 @@
 layout: default
 title: Cloud
 permalink: /:path/
-nav_order: 2
+nav_order: 3
 has_toc: false
 has_children: true
 ---

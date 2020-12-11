@@ -3,7 +3,7 @@ layout: default
 title: All about Korovax!
 permalink: /:path/
 parent: Mobile
-nav_order: 2
+nav_order: 4
 ---
 # All about Korovax!
 

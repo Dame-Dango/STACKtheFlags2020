@@ -3,7 +3,7 @@ layout: default
 title: Find the leaking bucket!
 permalink: /:path/
 parent: Cloud
-nav_order: 2
+nav_order: 1
 ---
 # Find the leaking bucket!
 

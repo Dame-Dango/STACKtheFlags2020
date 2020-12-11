@@ -3,7 +3,7 @@ layout: default
 title: Can you trick OrgX into giving away their credentials?
 permalink: /:path/
 parent: Social Engineering
-nav_order: 2
+nav_order: 1
 ---
 # Can you trick OrgX into giving away their credentials?
 

@@ -3,7 +3,7 @@ layout: default
 title: Only time will tell!
 permalink: /:path/
 parent: Open Source Intelligence
-nav_order: 2
+nav_order: 1
 ---
 # Only time will tell!
 

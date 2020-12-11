@@ -3,7 +3,7 @@ layout: default
 title: Sounds of freedom!
 permalink: /:path/
 parent: Open Source Intelligence
-nav_order: 2
+nav_order: 3
 ---
 # Sounds of freedom!
 

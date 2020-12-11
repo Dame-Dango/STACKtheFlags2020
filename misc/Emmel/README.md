@@ -3,7 +3,7 @@ layout: default
 title: Emmel
 parent: Miscellaneous
 permalink: /:path/
-nav_order: 2
+nav_order: 5
 ---
 # Emmel
 

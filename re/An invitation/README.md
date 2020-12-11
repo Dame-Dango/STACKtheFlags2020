@@ -3,7 +3,7 @@ layout: default
 title: An invitation
 permalink: /:path/
 parent: Reverse Engineering
-nav_order: 2
+nav_order: 1
 ---
 # An invitation
 
