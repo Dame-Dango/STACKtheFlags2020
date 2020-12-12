@@ -17,8 +17,10 @@ nav_order: 5
 > 
 
 ## Solution
-1. The challenge requires us to focus our attention on the `sg.gov.tech.ctf.mobile.User.AuthenticationActivity.java` at the start.
-2. From how the `onCreate` method is coded, it appears there are two tabs, one for `Login`, and another for `Sign up`. We can first take a look at what `f.a.a.a.a.e.b.a()` does.
+The challenge requires us to focus our attention on the `sg.gov.tech.ctf.mobile.User.AuthenticationActivity.java` at the start.
+
+From how the `onCreate` method is coded, it appears there are two tabs, one for `Login`, and another for `Sign up`. We can first take a look at what `f.a.a.a.a.e.b.a()` does.
+
 ```java
     @Override // androidx.activity.ComponentActivity, a.h.d.d, a.k.a.d, a.b.k.d
     public void onCreate(Bundle savedInstanceState) {
@@ -51,7 +53,9 @@ nav_order: 5
         this.f2975b.b(new a());
     }
 ```
-3. When we opened `f/a/a/a/a/e/b`, we noticed that the methods look normal and does not appear to have an indication of a flag. So we left and continued to analyze the `onCreate` method.
+
+When we opened `f/a/a/a/a/e/b`, we noticed that the methods look normal and does not appear to have an indication of a flag. So we left and continued to analyze the `onCreate` method.
+
 ```java
 package f.a.a.a.a.e;
 
@@ -94,7 +98,9 @@ public class b {
     }
 }
 ```
-4. Looking back at `onCreate`, it appears that they call `this.f2976c.setAdapter(new b(this, getSupportFragmentManager()));` to set the layouts for the tabs, so we should see what is the `b` class in this java file. We can see that at position 0 (which should be the login tab), it gets the layout from `f.a.a.a.a.e.a`. 
+
+Looking back at `onCreate`, it appears that they call `this.f2976c.setAdapter(new b(this, getSupportFragmentManager()));` to set the layouts for the tabs, so we should see what is the `b` class in this java file. We can see that at position 0 (which should be the login tab), it gets the layout from `f.a.a.a.a.e.a`. 
+
 ```java
     public class b extends n {
         public b(AuthenticationActivity authenticationActivity, i fm) {
@@ -118,7 +124,8 @@ public class b {
         }
     }
 ```
-5. Opening `f/a/a/a/a/e/a.java`, we can see a whole load of magic numbers scattered in the file...
+
+Opening `f/a/a/a/a/e/a.java`, we can see a whole load of magic numbers scattered in the file...
 ```java
         // ...
         SQLiteDatabase db = dbhelper.getWritableDatabase(c.a.a.a.a(-212209524015184L)); // Line 38
@@ -151,7 +158,9 @@ public class b {
             } // Line 125 - 127
         // ...
 ```
-6. So we decoded every single magic number using the code from [`mobile/Contact Us!`](../Contact%20Us!)... which gives us the flag!
+
+So we decoded every single magic number using the code from [`mobile/Contact Us!`](../Contact%20Us!)... which gives us the flag!
+
 ```java
         // ...
         SQLiteDatabase db = dbhelper.getWritableDatabase("12345"); // Line 38
